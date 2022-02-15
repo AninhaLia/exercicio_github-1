@@ -1,5 +1,11 @@
+
+# MUDEI MAIS
+
+Aqui você terá informações sobre o GitHub
+
 # exercicio_github 
 Nesse repositório vamos ter várias informações sobre o GitHub
+
 
 ## Esse repositório é referente uma disciplina 
 
@@ -57,5 +63,3 @@ vamos la ver o que acontece agora.
 
 # Agora 2 ou 3 modificações
 mais uma modificação que esqueci de dar nome no commit
-
-### teste. tá rolando??
