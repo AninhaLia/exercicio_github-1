@@ -1,7 +1,23 @@
 # exercicio_github
+Aqui você terá informações sobre o GitHub
 
-## vamos comerçar a mostrar as funcionalidades
+# Aqui você pode escrever de diferentes maneiras -> Vários niveis
 
+# Nível 1
+
+Texto
+
+## Nível 2
+
+Texto
+
+### Nível 3
+
+Textototot
+
+#### Nível 4 
+
+textootooo
 # exercicio_github
 
 ## Estamos criando aqui um repositório do GitHub
